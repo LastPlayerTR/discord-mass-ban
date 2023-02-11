@@ -1,1 +1,3 @@
-"info about this project" 
+Usage
+
+node index.js guildid
