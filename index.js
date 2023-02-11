@@ -5,7 +5,7 @@ console.log("Discord Ban Script")
 console.log("LP yapti;")
 
 let useridler = fs.readFileSync("useridler.txt", "utf-8").split("\n")
-let token = "Bot MTA0MTM3Mzg4NDc5ODIxNDE5NA.GT4uy2.-z4wksHomX2w9o0Ew2-T_RGiM3ZKU5svUGgAm0"
+let token = "Bot TOKENHERE"
 let guildid = process.argv[2]
 
 if (!guildid){
